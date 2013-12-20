@@ -1,0 +1,5 @@
+# User privilege specification
+
+root    ALL = (ALL) ALL
+ubuntu  ALL = (ALL) NOPASSWD:ALL
+rodrigo ALL = (ALL) NOPASSWD: /bin/ls
